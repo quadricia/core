@@ -1,0 +1,14 @@
+{
+  "name": "quadricia",
+  "version": "1.0.0",
+  "description": "Quadricia Framework (based on ractive)",
+  "main": "quadricia.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stéphane Zucatti",
+  "license": "ISC",
+  "dependencies": {
+    "uglify-js": "^3.14.2"
+  }
+}
