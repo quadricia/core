@@ -1,0 +1,1 @@
+terser --compress --mangle -- quadricia.js > quadricia.min.js
